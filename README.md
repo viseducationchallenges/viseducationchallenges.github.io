@@ -50,27 +50,27 @@ of the seminar for their inspiration, contributions and encouragement.
 
 ## Contributors
 
-* Benjamin Bach, Unviersity of Edinburgh
-* Mandy Keck, University of Applied Sciences Upper Austria
-* Fateme Rajabiyazdi, Carleton University
-* Tatiana Losev, Simon Fraser University
-* Isabel Meirelles, OCAD 
-* Jason Dykes, City University London
-* Robert S. Laramee, University of Nottingham
-* Mashael AlKadi, Unviersity of Edinburgh
-* Christina Stoiber, University of Applied Sciences St. Pölten 
-* Samuel Huron, Telecom ParisTech
-* Charles Perin, University of Victoria
-* Luiz Morais, Voxar Labs
-* Wolfgang Aigner, University of Applied Sciences St. Pölten
-* Doris Kosminsky, Universidate Federal de Rio de Janeiro
-* Magdalena Boucher, University of Applied Sciences St. Pölten
-* Søren Knudsen, University of Copenhagen
-* Areti Manataki, University of St. Andrews
-* Jan Aerts, Katholieke Universiteit, Leuven
-* Uta Hinrichs,  Unviersity of Edinburgh
-* Jonathan C. Roberts, Bangor University
-* Sheelagh Carpendale, Simon Fraser University
+* [Benjamin Bach](mailto:bbach@ed.ac.uk), _Unviersity of Edinburgh_
+* Mandy Keck, _University of Applied Sciences Upper Austria_
+* Fateme Rajabiyazdi, _Carleton University_
+* Tatiana Losev, _Simon Fraser University_
+* Isabel Meirelles, _OCAD_ 
+* Jason Dykes, _City University London_
+* Robert S. Laramee, _University of Nottingham_
+* Mashael AlKadi, _Unviersity of Edinburgh_
+* Christina Stoiber, _University of Applied Sciences St. Pölten_ 
+* Samuel Huron, _Telecom ParisTech_
+* Charles Perin, _University of Victoria_
+* Luiz Morais, _Voxar Labs_
+* Wolfgang Aigner, _University of Applied Sciences St. Pölten_
+* Doris Kosminsky, _Universidate Federal de Rio de Janeiro_
+* Magdalena Boucher, _University of Applied Sciences St. Pölten_
+* Søren Knudsen, _University of Copenhagen_
+* Areti Manataki, _University of St. Andrews_
+* Jan Aerts, _Katholieke Universiteit, Leuven_
+* Uta Hinrichs, _Unviersity of Edinburgh_
+* Jonathan C. Roberts, _Bangor University_
+* Sheelagh Carpendale, _Simon Fraser University_
 
 ## Coming soon: 
 
