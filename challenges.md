@@ -24,11 +24,11 @@
 | GA3   |  Assessing learners’ work at scale and distance    |
 |  | Q15: How do we provide feedback that is transparent, fair, high-quality, and timely when teaching at scale or distance? |
 | **MOTIVATION**  |     |
-| MTV2   |  Retaining motivation during learning visualization    |
+| MTV1   | Communicating the need for visualization education    |
 |  | Q16: How to better communicate goals, levels, expectations, and prerequisites to diverse groups of learners? |
 |  | Q17: How do we understand and respond to the factors that motivate people to engage with visualization learning? |
 |  | Q18: How do we capture and share visualization success stories and understand what made them a success?
-| MTV2   |  Retain   | ing motivation during learning visualization    |
+| MTV2   |  Retaining motivation during learning visualization    |
 |  | Q19: How do we embrace learners’ disciplinary and background knowledge in ways that motivate? | 
 |  | Q20: How can we balance flexibility in learning, through free-form, learner-centered and individualized activity, with educator workload? |
 | **METHODS**  |     |
