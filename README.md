@@ -15,7 +15,9 @@ describe 19 challenges informed by our collective practical experience. We organ
 * Motivation, 
 * Methods, 
 * Materials, and 
-* Change. 
+* Change.
+
+### [Final all challenges here](challenges.md)
 
 Across these themes, we formulate 43 research
 questions to address these challenges. As part of our call to action, we then conclude with 5 cross-cutting opportunities and respective
